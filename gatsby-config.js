@@ -30,7 +30,7 @@ module.exports = {
     {
       resolve: `gatsby-source-drupal`,
       options: {
-        baseUrl: `http://gatsby.locale/`,
+        baseUrl: `http://d-gatsby.whitedrop.it/`,
         apiBase: `jsonapi`, // optional, defaults to `jsonapi`
       },
     },
