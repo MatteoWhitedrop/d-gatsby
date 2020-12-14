@@ -1,0 +1,16 @@
+{
+    "name": "whitedroplab/gatsby",
+    "type": "library",
+    "description": "Testing per composer wd",
+    "keywords": ["whitedrop","loremipsum","arezzo","elbomba"],
+    "homepage": "https://whitedrop.it",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matteo",
+            "email": "matteo.mocera@whitedrop.it",
+            "homepage": "https://whitedrop.it",
+            "role": "Developer"
+        }
+    ],
+}
